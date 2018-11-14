@@ -1,0 +1,2 @@
+# misskeyjs
+Misskey JavaScript library
